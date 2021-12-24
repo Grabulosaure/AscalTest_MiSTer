@@ -1,0 +1,9 @@
+set_global_assignment -name SDC_FILE ascaltest.sdc
+set_global_assignment -name SYSTEMVERILOG_FILE ascaltest.sv
+set_global_assignment -name VHDL_FILE rtl/ascal_test.vhd
+set_global_assignment -name VHDL_FILE rtl/ovo.vhd
+set_global_assignment -name VHDL_FILE rtl/base_pack.vhd
+
+
+
+
